@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="viewer-container">
       <model-viewer
-        src="./room.glb"
+        src={`${import.meta.env.BASE_URL}room.glb`}
         camera-controls
         auto-rotate
         shadow-intensity="1"
