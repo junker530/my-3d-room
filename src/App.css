@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden; /* スクロールバーを消す */
+  background-color: #f0f0f0;
+}
+
+.viewer-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+model-viewer {
+  width: 100%;
+  height: 100%;
+}
