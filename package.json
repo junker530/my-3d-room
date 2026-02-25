@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://junker530.github.io/3d-my-room/",
+  "homepage": "https://junker530.github.io/my-3d-room/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
